@@ -27,6 +27,6 @@ Google Gemini AI analyzes the input and classifies the crime type.
 - Google Gemini
 
 ## Team
-Team of 2 members
+Team of 1 member
 
 Built for TechSprint Hackathon - GDG On Campus
